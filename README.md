@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sabreen-Radi
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Python
-- 📫 How to reach me www.linkedin.com/in/sabreenradi
+- 📫 How to reach me www.linkedin.com/in/sabreenradi & sabreen.radi.95@gmail.com
 
 <!---
 Sabreen-Radi/Sabreen-Radi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
